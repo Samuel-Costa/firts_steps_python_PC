@@ -1,1 +1,3 @@
-# firts_steps_python_PC
+# PENSAMENTO COMPUTACIONAL
+
+## IMD1004 - T08  (2019.1)
